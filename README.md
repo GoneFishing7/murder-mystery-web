@@ -1,4 +1,4 @@
-# https://gonefishing7.github.io/murder-web/
+# https://gonefishing7.github.io/murder-mystery-web/
 ## murder-web
 Same as https://github.com/Gonefishing7/murder, except implemented as a static website.
 ### TODO
